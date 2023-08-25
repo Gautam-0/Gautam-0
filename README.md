@@ -1,24 +1,24 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<h1 align="center">Hi 👋, I'm Mayank Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gautam Mittal</h1>
+<h3 align="center">A passionate data enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-9031&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-9031" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/mayank9031" target="blank"><img src="https://img.shields.io/twitter/follow/mayank9031?logo=twitter&style=for-the-badge" alt="mayank9031" /></a> </p> -->
 
-- 🔭 I’m currently polishing my **Coding skills**
+- 🔭 I’m currently polishing my **Machine Learning Skills**
 
-- 👀 I’m interested in **Software Development**
+- 👀 I’m interested in **Working with Data**
 
-- 💬 Ask me about **DSA, Oops, React.js**
+- 💬 Ask me about **SQL, Python, Power BI**
 
-- 📫 How to reach me **goyalmayank397@gmail.com**
+- 📫 How to reach me **gautammittal35@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/1j568mhms6](https://flowcv.com/resume/1j568mhms6)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I like to spend more time with data than people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
